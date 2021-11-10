@@ -1,0 +1,4 @@
+terraform-aws
+terraform.tfstate
+terraformAwsCredentials.csv
+**/terraform-provider-aws_v3.62.0_x5
